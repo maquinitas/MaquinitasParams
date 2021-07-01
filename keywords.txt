@@ -1,0 +1,23 @@
+################################
+# Classes
+################################
+
+KorgVolcaBeats		KEYWORD1
+
+################################
+# Methods and functions
+################################
+
+# placeholder	KEYWORD2
+
+################################
+# Constants
+################################
+
+kick		LITERAL1
+snare		LITERAL1
+clap		LITERAL1
+hihatClosed	LITERAL1
+tomLow		LITERAL1
+hiHatOpen	LITERAL1
+hiHatOpen	LITERAL1
