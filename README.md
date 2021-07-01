@@ -1,1 +1,1 @@
-# maquinitas-parameters
+# MaquinitasParameters
