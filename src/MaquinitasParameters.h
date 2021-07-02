@@ -4,6 +4,8 @@
 class MaquinitasParameters {
   public:
 
+  int year;
+
 };
 
 #endif

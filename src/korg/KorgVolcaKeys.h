@@ -8,6 +8,7 @@ class KorgVolcaKeys: public MaquinitasParameters {
   public:
 
   int midiChannel = 1;
+
 };
 
 #endif
