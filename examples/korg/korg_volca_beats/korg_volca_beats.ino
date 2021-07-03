@@ -13,5 +13,6 @@ void loop() {
 
   Serial.println(beats.kick);
   Serial.println(beats.snare);
+  Serial.println(beats.year);
 
 }
