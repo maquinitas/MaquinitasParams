@@ -12,5 +12,6 @@ void setup() {
 void loop() {
 
   Serial.println(beats.kick);
+  Serial.println(beats.snare);
 
 }

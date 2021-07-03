@@ -4,8 +4,11 @@
 /// @include library MaquinitasParameters
 #include "MaquinitasParams.h"
 
-class KorgVolcaKeys: public MaquinitasParameters {
+class KorgVolcaKeys: public MaquinitasParams {
   public:
+    KorgVolcaKeys() {
+      year = 2013;
+    }
 
   int midiChannel = 1;
 
