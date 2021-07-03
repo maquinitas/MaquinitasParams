@@ -1,4 +1,4 @@
- #include <MaquinitasParameters.h>
+#include <MaquinitasParams.h>
 #include <korg/KorgVolcaBeats.h>
 
 KorgVolcaBeats beats;

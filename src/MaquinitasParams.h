@@ -1,5 +1,5 @@
-#ifndef MAQUINITAS_PARAMETERS_H
-#define MAQUINITAS_PARAMETERS_H
+#ifndef MAQUINITAS_PARAMS_H
+#define MAQUINITAS_PARAMS_H
 
 class MaquinitasParameters {
   public:

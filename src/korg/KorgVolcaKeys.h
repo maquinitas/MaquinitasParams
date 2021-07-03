@@ -1,8 +1,8 @@
-#ifndef MAQUINITAS_PARAMETERS_KORG_VOLCA_KEYS_H
-#define MAQUINITAS_PARAMETERS_KORG_VOLCA_KEYS_H
+#ifndef MAQUINITAS_PARAMS_KORG_VOLCA_KEYS_H
+#define MAQUINITAS_PARAMS_KORG_VOLCA_KEYS_H
 
 /// @include library MaquinitasParameters
-#include "MaquinitasParameters.h""
+#include "MaquinitasParams.h""
 
 class KorgVolcaKeys: public MaquinitasParameters {
   public:
