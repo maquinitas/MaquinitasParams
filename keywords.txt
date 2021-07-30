@@ -5,6 +5,7 @@
 KorgVolcaBass		KEYWORD1
 KorgVolcaBeats		KEYWORD1
 KorgVolcaKeys		KEYWORD1
+RolandTR09		KEYWORD1
 
 ################################
 # Methods and functions
