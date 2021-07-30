@@ -1,7 +1,7 @@
 #include <MaquinitasParams.h>
-#include <korg/KorgVolcaBeats.h>
+#include <roland/RolandTR09.h>
 
-KorgVolcaBeats beats;
+RolandTR09 tr09;
 
 void setup() {
 
@@ -11,8 +11,8 @@ void setup() {
 
 void loop() {
 
-  Serial.println(beats.kick);
-  Serial.println(beats.snare);
-  Serial.println(beats.year);
+  Serial.println(tr09.kick);
+  Serial.println(tr09.snare);
+  Serial.println(tr09.year);
 
 }
