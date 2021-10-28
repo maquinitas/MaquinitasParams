@@ -4,6 +4,7 @@
 
 KorgVolcaBass		KEYWORD1
 KorgVolcaBeats		KEYWORD1
+KorgVolcaFm			KEYWORD1
 KorgVolcaKeys		KEYWORD1
 RolandTR09		KEYWORD1
 
@@ -18,6 +19,7 @@ RolandTR09		KEYWORD1
 ################################
 
 year		LITERAL1
+midiChannel	LITERAL1
 kick		LITERAL1
 snare		LITERAL1
 clap		LITERAL1
