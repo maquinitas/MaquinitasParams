@@ -1,6 +1,10 @@
+// include MaquinitasParams library
 #include <MaquinitasParams.h>
+
+// include parameters for Korg Volca FM
 #include <korg/KorgVolcaFm.h>
 
+// declare new 
 KorgVolcaFm fm;
 
 void setup() {

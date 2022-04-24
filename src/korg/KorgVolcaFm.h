@@ -2,7 +2,7 @@
 #define MAQUINITAS_PARAMS_KORG_VOLCA_FM_H
 
 /// @include library MaquinitasParameters
-#include "MaquinitasParams.h"
+#include <MaquinitasParams.h>
 
 class KorgVolcaFm: public MaquinitasParams {
   public:

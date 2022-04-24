@@ -5,7 +5,7 @@ KorgVolcaBass bass;
 
 void setup() {
 
-  Serial.begin(9600);
+  bass.setup();
 
 }
 

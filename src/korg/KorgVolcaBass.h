@@ -10,6 +10,10 @@ class KorgVolcaBass: public MaquinitasParams {
       year = 2013;
     }
 
+    KorgVolcaBass::setup() {
+      Serial.begin(9600);
+    }
+
 };
 
 #endif
